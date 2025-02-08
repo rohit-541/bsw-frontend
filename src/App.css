@@ -1,0 +1,13 @@
+@import "tailwindcss";
+/* Add this in your main CSS file */
+body {
+  font-family: 'Josefin Sans', sans-serif; /* Default font for the body */
+}
+
+.font-josefin {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.font-kanit {
+  font-family: 'Kanit', sans-serif;
+}
