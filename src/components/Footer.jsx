@@ -45,11 +45,11 @@ export default function Footer() {
                             Website Created and Maintained by{" "}
                             <a href="https://www.linkedin.com/in/rohit-kumar-ab0b412b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" className="text-teal-400 hover:text-teal-300">
                                 Rohit
-                            </a>
-                            and{" "}
+                            </a>{"   "}
+                            and{"   "}
                             <a href="https://www.linkedin.com/in/sarvik-mehta-72267a28a/" target="_blank" className="text-teal-400 hover:text-teal-300">
                                 Sarvik Mehta
-                            </a>{" "}
+                            </a>
                         </p>
                         <p className="mb-4">
                             Designed by{" "}
